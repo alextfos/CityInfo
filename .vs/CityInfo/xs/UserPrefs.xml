@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{32602673-D8C1-487B-A25D-AA7775C8D5E8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CityInfo.API/Startup.cs">
+    <Files>
+      <File FileName="CityInfo.API/Program.cs" Line="11" Column="2" />
+      <File FileName="CityInfo.API/Startup.cs" Line="42" Column="1" />
+      <File FileName="CityInfo.API/Properties/launchSettings.json" />
+      <File FileName="CityInfo.API/appsettings.json" />
+      <File FileName="CityInfo.API/appsettings.Development.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CityInfo" expanded="True">
+            <Node name="CityInfo.API" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CityInfo.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
